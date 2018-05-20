@@ -1,0 +1,18 @@
+% latex table generated in R 3.3.2 by xtable 1.8-2 package
+% Wed Mar  8 09:42:59 2017
+\begin{table}[ht]
+\centering
+\begin{tabular}{llrrrr}
+  \hline
+mangaid & ned name & $\alpha (J2000)$ & $\delta$ & z & $M^*$ \\ 
+  \hline
+1-148068 & MCG +08-19-033 & 156.8057 & 48.2448 & 0.06096 & 10.96 \\ 
+  1-378164 & UGC 03935 & 114.4559 & 46.3977 & 0.03213 & 10.63 \\ 
+  1-256002 & 2MASX J11083705+4300151 & 167.1544 & 43.0042 & 0.04989 & 10.16 \\ 
+  1-210923 & WISE J162105.01+395502.8 & 245.2709 & 39.9174 & 0.03203 & 10.32 \\ 
+  1-266039 & UGC 09105 & 213.4168 & 43.8666 & 0.03504 & 10.67 \\ 
+  1-282712 & 2MASX J12314488+4607538 & 187.9369 & 46.1316 & 0.04909 & 9.99 \\ 
+   \hline
+\end{tabular}
+\label{table:basedata}
+\end{table}
